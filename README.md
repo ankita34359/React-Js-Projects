@@ -56,3 +56,7 @@ To run these projects, you need to have the following installed on your local ma
 **React Hooks:** For managing state and effects.
 
 **API Integration:** In some projects for fetching data.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to submit an issue or a pull request.
