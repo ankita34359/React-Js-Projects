@@ -16,21 +16,9 @@ The main objective of this repository is to showcase my learning journey with Re
 
 Here is the list of projects included in this repository:
 
-1. **Project 1: To-Do List**  
-   A simple to-do list application to practice basic state management with React Hooks. Users can add, delete, and mark tasks as complete.
+1. **Project 1: To-Do App**  
+   A simple to-do application to practice basic state management with React Hooks. Users can add, delete, and edit the tasks.
    
-2. **Project 2: Weather App**  
-   A weather forecast application using an external API to fetch data and display current weather information. This project helps in understanding API calls in React.
-   
-3. **Project 3: Counter App**  
-   A basic counter application demonstrating the use of state and event handling in React.
-   
-4. **Project 4: User Profile Card**  
-   A reusable profile card component to practice props, component composition, and CSS styling in React.
-   
-5. **Project 5: Simple Blog Post**  
-   A simple blog post listing app that allows adding, editing, and deleting posts. Focuses on managing state and using forms in React.
-
 ## How to Use
 
 1. Clone the repository:
