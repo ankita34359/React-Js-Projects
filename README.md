@@ -37,6 +37,26 @@ Here is the list of projects included in this repository:
    ```bash
    git clone https://github.com/yourusername/react-projects.git
 
+2. Navigate into the project directory:
+
+   ```
+   cd react-projects
+   ```
+   
+4. Install dependencies (make sure you have Node.js installed):
+
+   ```
+   npm install
+
+   ```
+6. Run the development server:
+
+   ```
+   npm start
+
+   ```
+8. Navigate to each project folder and follow the instructions in the respective README files to explore individual projects.   
+
 ## Prerequisites
 
 To run these projects, you need to have the following installed on your local machine:
