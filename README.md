@@ -101,3 +101,7 @@ As you explore each project, you'll gain hands-on experience and gradually impro
 Learning by doing is key, so dive in and enjoy the journey of mastering React!
 
 Happy Learning! 😊
+
+## Author
+
+Ankita Gupta
