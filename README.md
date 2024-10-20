@@ -43,19 +43,17 @@ Here is the list of projects included in this repository:
    cd react-projects
    ```
    
-4. Install dependencies (make sure you have Node.js installed):
+3. Install dependencies (make sure you have Node.js installed):
 
    ```
    npm install
-
    ```
-6. Run the development server:
+4. Run the development server:
 
    ```
    npm start
-
    ```
-8. Navigate to each project folder and follow the instructions in the respective README files to explore individual projects.   
+5. Navigate to each project folder and follow the instructions in the respective README files to explore individual projects.   
 
 ## Prerequisites
 
