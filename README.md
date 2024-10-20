@@ -45,4 +45,14 @@ To run these projects, you need to have the following installed on your local ma
 - npm (comes with Node.js)
 - React.js (React setup included in the projects)
 
+## Technologies Used
 
+React.js: A JavaScript library for building user interfaces.
+
+JavaScript (ES6+): Used for logic and state management.
+
+HTML/CSS: For structuring and styling components.
+
+React Hooks: For managing state and effects.
+
+API Integration: In some projects for fetching data.
