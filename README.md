@@ -60,3 +60,12 @@ To run these projects, you need to have the following installed on your local ma
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to submit an issue or a pull request.
+
+1.) Fork this repository.
+
+2.) Create a new branch:
+
+```
+git checkout -b feature-branch
+
+```
