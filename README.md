@@ -37,4 +37,12 @@ Here is the list of projects included in this repository:
    ```bash
    git clone https://github.com/yourusername/react-projects.git
 
+## Prerequisites
+
+To run these projects, you need to have the following installed on your local machine:
+
+- Node.js (LTS version recommended)
+- npm (comes with Node.js)
+- React.js (React setup included in the projects)
+
 
