@@ -16,7 +16,8 @@ The main objective of this repository is to showcase my learning journey with Re
 
 Here is the list of projects included in this repository:
 
-1. **Project 1: To-Do App**  
+1. **Project 1: To-Do App**
+   
    A simple to-do application to practice basic state management with React Hooks. Users can add, delete, and edit the tasks.
    
 ## How to Use
