@@ -69,3 +69,18 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 git checkout -b feature-branch
 
 ```
+3.) Make your changes and commit them:
+
+```
+git commit -m "Describe your changes"
+
+```
+
+4.) Push to your branch:
+
+```
+git push origin feature-branch
+
+```
+
+5.) Open a pull request and provide a detailed description of the changes.
