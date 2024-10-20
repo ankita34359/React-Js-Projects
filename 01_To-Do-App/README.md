@@ -100,3 +100,12 @@ Click the "Edit" button next to a task to modify it. A prompt will appear where 
 ### Delete a Task:
 
 Click the "Delete" button next to a task to remove it from the list.
+
+## Conclusion 
+
+The To-Do App project shows how React.js can be used to build a simple and responsive task management tool. Users can easily add, edit, and delete tasks, with a clean and user-friendly interface. It's a great starting point for learning React and can be expanded with more features.
+
+Happy Learning! 😊
+
+## Author
+Ankita Gupta
