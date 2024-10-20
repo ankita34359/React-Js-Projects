@@ -50,4 +50,20 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your local e
    ```
 5. Open the app in your browser by navigating to http://localhost:3000.
 
-   
+## Technologies Used
+
+### Frontend:
+
+- React.js: The main JavaScript library used for building the app.
+
+- JavaScript (ES6): For dynamic interactions and functionality.
+
+- HTML5: For structuring the content.
+
+- CSS3: For styling and responsiveness.
+
+### Development Tools:
+
+- Node.js & npm: For package management and local development.
+
+- Create React App: To set up the React development environment.
