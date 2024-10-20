@@ -87,4 +87,16 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your local e
 - App.css: Styles the app to provide a clean and simple user interface.
 - index.js: Entry point that renders the React app to the DOM.
 
-  
+## How to Use
+
+### Add a Task:
+
+Enter your task in the input field and click the "Add" button to add the task to the list.
+
+### Edit a Task:
+
+Click the "Edit" button next to a task to modify it. A prompt will appear where you can update the task.
+
+### Delete a Task:
+
+Click the "Delete" button next to a task to remove it from the list.
