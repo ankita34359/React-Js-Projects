@@ -1,4 +1,4 @@
-# React Projects Collection
+# React Projects Collection 
 
 Welcome to my collection of beginner-friendly React.js projects. This repository is designed for learning and practicing core React concepts, starting from simple to slightly more advanced projects. Each project aims to introduce key principles of React development while maintaining simplicity and ease of understanding.
 
